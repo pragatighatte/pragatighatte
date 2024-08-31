@@ -23,7 +23,7 @@ AI in Embedded Systems
 Advanced Kernel Programming
 Real-Time Linux (PREEMPT-RT)
 📫 Connect with Me
-Email: pragatighatte@example.com
+
 LinkedIn: Pragati Ghatte https://www.linkedin.com/in/pragati-ghatte-479b62199
 
 💬 Ask Me About
