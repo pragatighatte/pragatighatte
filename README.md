@@ -24,13 +24,7 @@ Advanced Kernel Programming
 Real-Time Linux (PREEMPT-RT)
 📫 Connect with Me
 Email: pragatighatte@example.com
-LinkedIn: Pragati Ghatte
-Twitter: @PragatiGhatte
-Personal Blog: Embedded Insights
-📊 GitHub Stats
-
-
-🎨 GitHub Streak
+LinkedIn: Pragati Ghatte https://www.linkedin.com/in/pragati-ghatte-479b62199
 
 💬 Ask Me About
 How to get started with Embedded Linux
