@@ -4,6 +4,7 @@
 🌍 Based in Pune, India, strongly committed to contributing to the tech community and advancing Linux technology.
 
 🚀 About Me
+
 Expertise: I specialize in embedded Linux, kernel development, and Yocto Project.
 Current Focus: Developing Linux-based solutions that integrate seamlessly with various hardware platforms.
 Goals: Aiming to contribute to open-source projects and collaborate with global tech communities.
