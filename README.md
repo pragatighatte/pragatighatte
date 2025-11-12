@@ -20,7 +20,7 @@ Networking: TCP/IP, Socket Programming, Network Protocols
 🌱 Currently Learning
 AI in Embedded Systems
 Advanced Kernel Programming
-Real-Time Linux (PREEMPT-RT)
+Real-Time systems 
 
 📫 Connect with Me
 
