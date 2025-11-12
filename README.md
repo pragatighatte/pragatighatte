@@ -21,7 +21,9 @@ Networking: TCP/IP, Socket Programming, Network Protocols
 AI in Embedded Systems
 Advanced Kernel Programming
 Real-Time Linux (PREEMPT-RT)
+
 📫 Connect with Me
+
 LinkedIn: Pragati Ghatte https://www.linkedin.com/in/pragati-ghatte-479b62199
 
 💬 Ask Me About
